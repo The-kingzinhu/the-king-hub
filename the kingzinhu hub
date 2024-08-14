@@ -4,7 +4,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "The King Hub | Blox Fruits",
+    Title = "o gui da o cu pro marcola Hub | Blox Fruits",
     SubTitle = "Version 1.0",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
@@ -7452,8 +7452,8 @@ end)
 end
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Fluent:Notify({
-    Title = "The King Hub",
-    Content = "The King Hub Loading Completed !!my discord is .the_k1ng.",
+    Title = "gui da o cu Hub",
+    Content = "gui da o cuzinn aaaiiinn !!my discord is .the_k1ng.",
     Durtion = 3
 })
 warn("The King Hub Loading Completed !!my discord is .the_k1ng.")
