@@ -5,7 +5,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "The King Hub | Blox Fruits",
-    SubTitle = "Version 3.1",
+    SubTitle = "Version 1.0",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = true,
