@@ -7453,7 +7453,7 @@ end
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Fluent:Notify({
     Title = "The King Hub",
-    Content = "The script has been loaded.",
+    Content = "The King Hub Loading Completed !!my discord is .the_k1ng.",
     Durtion = 3
 })
-warn("The King Hub Loading Completed !!")
+warn("The King Hub Loading Completed !!my discord is .the_k1ng.")
